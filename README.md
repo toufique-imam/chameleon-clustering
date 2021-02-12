@@ -3,25 +3,33 @@
 Python 3.5+ implementation of the clustering algorithm CHAMELEON[1].
 
 This repository is a modification and improvement
-of https://github.com/giovannipcarvalho/PyCHAMELEON.git
+of https://github.com/Moonpuck/chameleon_cluster
+
 
 Fixed lots of bugs and accorded with the results in the paper.
 
 Depends on METIS for Python.
 
 ## Installing
-
-1. Install requirements.
-
-```
-pip install -r requirements.txt
-```
-
-2. Run sample code
+1. Clone this repository
 
 ```
-python -i main.py
+git clone https://github.com/sabertooth9/chameleon-clustering.git
 ```
+
+2. install package
+
+```
+pip install -e chameleon-clustering-master
+```
+
+3. Run sample code
+
+```
+cd chameleon-clustering-master
+python -i example.py
+```
+
 
 
 
