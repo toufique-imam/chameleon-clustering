@@ -8,8 +8,8 @@ Data Mining Lab, KUET, BD.
 
 ---
 
-[![GitHub Stars](https://img.shields.io/github/stars/toufique-imam/chameleon-clustering?style=social)](https://github.com/caojiezhang/DAVSR)
-[![download](https://img.shields.io/github/downloads/toufique-imam/chameleon-clustering/total.svg)](https://github.com/caojiezhang/DAVSR/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/toufique-imam/chameleon-clustering?style=social)](https://github.com/toufique-imam/chameleon-clustering)
+[![download](https://img.shields.io/github/downloads/toufique-imam/chameleon-clustering/total.svg)](https://github.com/toufique-imam/chameleon-clustering)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=toufique-imam/chameleon-clustering)
 
 ---
